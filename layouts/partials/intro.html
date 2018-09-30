@@ -1,0 +1,22 @@
+{{ with .Site.Data.intro }}
+<div id="intro">
+    <center>
+        <a href="#header" class="image avatar scrolly"><img style="width: 60%; border-radius: 50%;" src="/images/morgan-avatar.jpg"
+                alt="" /></a>
+
+    </center>
+    <h1 class="animated rotateIn">
+        {{ range $i, $e := .title }}
+        {{ if $i }} <br /> {{ end }} {{ .line }}
+        {{ end }}
+    </h1>
+    <h3>
+        {{ range $i, $e := .description }}
+        {{ if $i }} <br /> {{ end }} {{ .line }}
+        {{ end }}
+    </h3>
+    <ul class="actions">
+        <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+    </ul>
+</div>
+{{ end }}
