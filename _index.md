@@ -1,6 +1,6 @@
 ---
 title: intro
-author: thomas lo russo
+author: Morgan Eloy
 date: '2018-03-23'
 ---
 <center>
