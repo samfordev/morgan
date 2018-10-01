@@ -1,7 +1,11 @@
 +++
-title = 'Swiss Statistics Meeting 2018'
-description = 'The Swiss Statistics Meeting will be held under the motto: “Statistic and emotions”'
+title = 'News Feed'
+description = 'Instagram & Facebook'
 +++
+
+<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+<ul class="juicer-feed" data-feed-id="sam_is_alive"><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer</a></h1></ul>
 
 While statistics is an exact science, emotions by contrast are subjective, often irrational and difficult 
 to measure. Despite or perhaps even due to this contrast, statistics and emotions are increasingly 

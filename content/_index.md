@@ -1,31 +1,46 @@
 ---
-title: intro
+title: Home
 author: Morgan Eloy
-date: '2018-03-23'
+date: '2018-10-01'
 ---
 <center>
-<a target="_blank" href="https://www.eventbrite.de/e/twist-2018-tickets-44099503803" class="button back alt2">Register Now!</a>
-### T<font color="#EB791F">ruth</font> WI<font color="#EB791F">thin</font> ST<font color="#EB791F">atistics</font> - Hackdays<br>
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
+
+Texte normal normal normal normal normal normal normal normal normal normal normal normal normal normal
+
+<a target="_blank" href="https://www.eventbrite.de/e/twist-2018-tickets-44099503803" class="button back alt2">Test bouton</a>
+
 As part of the 2018 Swiss Statistics Meeting, hackdays will be held for the first time. Developers, statisticans, designers, journalists, hackers and citizens of all backgrounds will be working with open data on the **subject of statistics and  emotions, evidence based decision making and fake news**. It is the Pre-Event of the <a href="
 https://www.statistiktage.ch/en/">Swiss Statistics Meeting 2018</a> in Zurich. 
 
-## Schedule
+*en italique* or _en italique_.
+**en gras** or __en gras__.
+~~Scratch this.~~
 
-|Time |  Saturday 25.8.2018  |
+## Test Tableau
+
+|bla |  test |
 |----------------|--------------------|
-|8:30| Doors Opening, coffee & croissants |
-|09:00| Data & challenges presentations and team building |
-|10:15| Teams start hacking |
-|12:00| Lunch break |
-|16:00 | Teams give a quick status update |
-|18:00| Dinner: who wants a pizza? |
-|After 22:00| If you want to hack during the night, we will make it possible! |
+|bla bla bla| super super super |
+|bla bla bla| super super super |
+|bla bla bla| super super super |
 
-|Time | Sunday 26.8.2018  |
-|--------------------|--------------------|
-|09:00|  Brunch, Teams work together |
-|12:00| Lunch |
-|16:00| Teams' final presentations (max. 45 mins.) |
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 </center> 
 <center>
