@@ -34,12 +34,11 @@
 
 					  <!-- Element um .md content aus _index.md anzuziehen!-->
 					  
-					    {{ partial "venue.html" . }}
 						 
-						{{ if eq .Site.Params.Posts.featuredpost "true" }}
+						<!-- {{ if eq .Site.Params.Posts.featuredpost "true" }}
 						{{ partial "posts/featured.html" (dict "firstpost" $firstPost) }}
 						{{ end }}
-						{{ partial "posts/list.html" (dict "posts" $postsPaging) }}
+						{{ partial "posts/list.html" (dict "posts" $postsPaging) }} -->
 						
 						<!-- Footer -->
 						{{ if gt $postsPaging.TotalPages 1 }}
