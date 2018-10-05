@@ -7,6 +7,14 @@ type = "page"
 
 {{< gallery dir="images/fulls" />}}{{< load-photoswipe >}}
 
+bla bla bla
+
+{{< gallery >}}
+  {{< figure src="/images/fulls/01.jpg" caption="This is a caption 1">}}
+  {{< figure src="/images/fulls/02.jpg" caption="This is a caption 2">}}
+  {{< figure src="/images/fulls/03.jpg" caption="This is a caption 3">}}
+{{< /gallery >}}
+
 As part of the 2018 <a href="https://www.statistiktage.ch/en/">Swiss Statistics Meeting</a>, hackdays will be held for the first time. During the 
 hackdays, interested participants will research the potential of various data sets. The attendees will work together in interdisciplinary teams to explore the data and master the challenges. The different skills and backgrounds within 
 the different teams will allow for creativity and the development of new solutions and ideas. 
