@@ -5,6 +5,8 @@ title = "About"
 type = "page"
 +++
 
+{{< gallery dir="images/fulls" />}}{{< load-photoswipe >}}
+
 As part of the 2018 <a href="https://www.statistiktage.ch/en/">Swiss Statistics Meeting</a>, hackdays will be held for the first time. During the 
 hackdays, interested participants will research the potential of various data sets. The attendees will work together in interdisciplinary teams to explore the data and master the challenges. The different skills and backgrounds within 
 the different teams will allow for creativity and the development of new solutions and ideas. 
