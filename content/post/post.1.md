@@ -1,37 +1,31 @@
 ﻿+++
-title = 'Three steps from data desert to a thriving data ecosystem'
-slug = 'three_steps'
+title = 'Integer commodo nisi et libero rhoncus tempor'
+slug = 'post1'
 image = 'images/dataEcoSystem.jpg'
 date = "2018-07-12T00:00:00"
-description = 'Join the TWIST-Hackdays and dive into the linked open data future.'
+description = 'Mauris a aliquam lectus, at interdum dolor. Suspendisse sit amet sapien sit amet dui hendrerit viverra.'
 +++
 
-Isolated data is information dryland. Data needs to be rooted in its context to blossom and if we want it to thrive, data needs to live in a networked ecosystem. 
+Fusce et orci vel felis varius posuere. In hac habitasse platea dictumst. Phasellus in odio eu velit semper ullamcorper. Proin in ante purus. Nam vehicula posuere quam, at finibus lectus pretium et. Nullam feugiat, tellus in cursus maximus, magna ipsum rhoncus mi, in viverra magna nulla at nisi. In in mollis tellus. Vestibulum condimentum turpis libero, nec auctor ligula mattis quis.
 
-#### First step: Let the data sprout
+#### First step
 
-For data to sprout, it has to be [available to everyone to access, use and share](https://theodi.org/article/what-is-open-data-and-why-should-we-care/).  At TWIST2018 we work with Open Data. And we want to work with you, to find innovative ways to analyse, visualise and combine data. To think out of the box, the data has to get out of the box as well. 
+Morbi id mauris ac massa luctus scelerisque eu sed augue. Nulla varius venenatis leo, a condimentum ex commodo sed. Integer consequat est a velit feugiat, non gravida tortor scelerisque. Quisque sit amet libero et lorem vulputate porttitor porta vel diam. Nunc et erat ac odio dictum pretium ac vel tellus. Sed aliquet sit amet felis in accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris est lacus, gravida blandit pretium ac, aliquet sit amet nisi. Duis libero leo, venenatis eget metus et, feugiat aliquam turpis.
 
-#### Second step: Cultivating the data ecosystem
+#### Second step
 
-[Metadata](http://www.web.statistik.zh.ch/cms_vis/openDataBeer_NoMetaDataNoFuture.pdf) is the solid ground, where data lives on. Together with connections to other data sources it forms the data ecosystem. But linking different data sources can be a pain. Linked Open Data (LOD) are the painkillers without side effects. This technology is not new at all. A great deal of energy is currently being invested by various Swiss administrative units to publish their data as LOD. The City of Zurich, for example, is working intensively to transform all data in its Statistical Yearbooks into Linked Open Data. By the end of August, over 30 million data triplets will be queryable via SPARQL and linkable to other data sources. 
-As participant of TWIST2018 you will be among the first to work with these new LOD!
+Vivamus fringilla lectus sed quam eleifend ornare. Sed tempus lorem at rutrum molestie. Duis lobortis diam vitae massa sodales bibendum ut ut eros. Curabitur erat tellus, dignissim id arcu porttitor, interdum imperdiet ante. Nam blandit ac velit vel molestie. Vivamus erat nisi, pulvinar eu lobortis ut, sollicitudin sit amet nisl. Donec pellentesque luctus ligula, eu tincidunt ex varius eget. Duis fermentum consectetur diam sed vulputate.
 
-####  Third  step: Nurture data literacy
+####  Third  step
 
-In order to work with data, we need a set of skills that enables us to find, extract, read, analyse and visualize data. All this skills together are called [data literacy](https://schoolofdata.org/2016/01/08/research-results-part-1-defining-data-literacy/). At TWIST2018 we have experts in all these fields. We learn from you, you learn from us. 
+Ut volutpat leo non felis elementum, sit amet maximus arcu rhoncus. Praesent sed lacus enim. Curabitur porta massa sapien, eget cursus massa imperdiet sit amet. Donec pulvinar ex ac imperdiet varius. Mauris id felis non tellus tincidunt luctus. Quisque faucibus malesuada est finibus lacinia. Sed sodales lacus eleifend erat posuere euismod. Praesent tempus ullamcorper gravida. Nam aliquet orci sed velit vehicula tristique. Etiam quam nibh, blandit at mauris vitae, molestie tincidunt diam. Praesent lacus mi, luctus nec augue vel, tempus finibus lorem.
 
-####  The thriving data ecosystem future
 
-<a href="https://beta.observablehq.com/@mmznrstat/a-thriving-data-ecosystem"><img src="/images/observable2.png" alt="Observable" style="float:right;width:50%;height:10%;border-width: 17px; border-color: white; border-style: solid;"/></a>
-Imagine a future, where data from statistical offices, metadata from opendata.swiss, information from wikipedia, maps from swisstopo and layers from OpenStreetMap all work together to make the world a better place. 
-The future is already here:
 
-https://beta.observablehq.com/@mmznrstat/a-thriving-data-ecosystem
+####  Fourth step
 
-This is an observable notebook, “an interactive, editable document defined by code. It’s a computer program, but one that’s designed to be easier to read and write by humans.” (Mike Bostock)
-If you want to know more about observable notebooks, you can start with reading this short introduction: https://beta.observablehq.com/@mbostock/introduction-to-notebooks.
+Nullam id lectus nulla. Integer suscipit eget nisl eget tincidunt. Nunc justo quam, gravida sed metus eu, efficitur pretium tortor. Donec a orci vitae massa gravida mollis et eget odio. Integer at neque quam. Aliquam leo ligula, feugiat et venenatis fringilla, dignissim et libero. Fusce lobortis lacus sed posuere porta. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc ultricies facilisis ante, et placerat tortor feugiat a. Curabitur faucibus ante iaculis luctus imperdiet. In maximus vitae massa non scelerisque. Nunc egestas sapien neque, ut efficitur sem feugiat vel.
 
-<center><h4>REGISTER NOW FOR THE TWIST-Hackdays!</h4></center>
+<center><h4>REGISTER NOW !</h4></center>
 
-<center><a target="_blank" href="https://www.eventbrite.de/e/twist-2018-tickets-44099503803" class="button back alt2">Register Now!</a></center>
+<center><a target="_blank" href="https://www.google.com" class="button back alt2">Register Now !</a></center>

@@ -1,13 +1,15 @@
 ﻿+++
-description = "The Twist-Hackdays are part of the Swiss Statistics Meeting 2018."
+description = "This my work !"
 image = "images/odd.png"
-title = "About"
+title = "Photographie"
 type = "page"
 +++
 
+<center>
+
 {{< gallery dir="images/fulls" />}}{{< load-photoswipe >}}
 
-bla bla bla
+Gallerie avec caption
 
 {{< gallery >}}
   {{< figure src="/images/fulls/01.jpg" caption="This is a caption 1">}}
@@ -15,61 +17,29 @@ bla bla bla
   {{< figure src="/images/fulls/03.jpg" caption="This is a caption 3">}}
 {{< /gallery >}}
 
-As part of the 2018 <a href="https://www.statistiktage.ch/en/">Swiss Statistics Meeting</a>, hackdays will be held for the first time. During the 
-hackdays, interested participants will research the potential of various data sets. The attendees will work together in interdisciplinary teams to explore the data and master the challenges. The different skills and backgrounds within 
-the different teams will allow for creativity and the development of new solutions and ideas. 
+</center>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur molestie nunc id lacus egestas, eu fermentum metus varius. In accumsan eleifend mauris vel sodales. Sed sodales fermentum hendrerit. In sit amet magna est. Donec nulla lacus, malesuada in nulla in, sollicitudin faucibus est. Donec quis sapien vel ex finibus dignissim. Donec a metus sed velit ornare condimentum. Phasellus vel leo eu est luctus accumsan a eget nulla.
 <br>
 
-#### Free participation & family-friendly setting
+#### Lorem ipsum dolor sit amet
 
-**Participation in the hackdays is free**. In freely-chosen teams, participants will work on visualisations and analyses among other things. 
-Rooms will be available for this purpose as of Saturday 25 August. Refreshments and a high-performance wifi connection will be available around the clock.
-Attendees of the <a href="https://www.statistiktage.ch/en/">Swiss Statistics Meeting</a> are also naturally welcome whether as active team members or bystanders. A supervised playarea for children will be available during the hackdays.
-We are evaluating whether there is demand for full service childcare for children staying the entire day. Please fill in this form if you are interested:
+**Lorem ipsum dolor sit amet**Morbi ac lectus accumsan neque interdum pellentesque at nec elit. Donec dui odio, euismod a blandit et, pulvinar vitae diam. Cras laoreet diam at nibh interdum, et laoreet purus sollicitudin. Morbi ligula augue, finibus quis augue sit amet, fermentum vestibulum augue. Nulla sed hendrerit eros, vel euismod magna. Curabitur vehicula sapien tortor, ut vestibulum enim pharetra sed. Ut ac sollicitudin lectus, sit amet commodo felis.
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdEk_2PQKk-K9zuqYuwwOQ0qpTHrGOra1MiIeKa6vNFnOSP9g/viewform" class="button back alt2">Childcare needed? Let us know!</a>
+<a href="https://google.com" class="button back alt2">Google !</a>
 </center>
 
-#### Final Results will be presented at the Swiss Statistics Meeting
+#### Sed non sem nec odio 
 
-This first hackdays will attract a completely new group of people to the Swiss Statistics Meeting. Participants from a broad range of different fields will breathe  new  life  into  the  statistics scene, providing for an exchange between experts from various areas. This is an exciting 
-prospect both for the offices taking part in the Swiss Statistics Meeting in terms of the transfer of technology and recruitment.
+Sed non sem nec odio sollicitudin posuere eu at sapien. Nam sit amet massa et lacus dapibus scelerisque. Donec fermentum sem nibh, eget ultricies dolor suscipit ac. Pellentesque ornare nec diam a sagittis. Vestibulum imperdiet sagittis mi eu auctor. Nullam suscipit quis quam id facilisis. Vivamus enim enim, condimentum non lacus vitae, laoreet vulputate libero. Maecenas a facilisis purus, ac euismod ligula. Nulla nisl augue, tristique at semper id, sagittis a urna. Mauris ornare nulla ac mollis mattis. Quisque elit risus, convallis posuere velit eget, euismod faucibus dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed facilisis, dolor vitae semper luctus, mauris orci vulputate arcu, vel pellentesque quam urna eget turpis. Mauris placerat rutrum est sit amet bibendum.
 
-At the end the results of the hackdays will be presented to the public at the <a href="https://www.statistiktage.ch/en/">Swiss Statistics Meeting</a> on Tuesday 28 August.
-</center>
-<br>
-<center>
-<a href="https://www.eventbrite.de/e/twist-2018-tickets-44099503803" class="button back alt2">Register Now!</a>
-</center>
+#### Mauris laoreet diam diam
 
-#### We are a group of people committed to open data and civic engagement. Hackdays are part of our DNA.
+Mauris laoreet diam diam, eget sodales orci eleifend id. Curabitur pulvinar cursus lacus, non ornare enim aliquet at. Duis magna diam, egestas vel neque sed, <a href="https://apple.com/">dapibus pellentesque sapien</a>. Vivamus eleifend tellus metus, eget efficitur magna mollis in. Quisque pellentesque est sem, varius lacinia elit varius id. Donec vulputate diam sit amet orci tempor ullamcorper. Nulla interdum sollicitudin porta.
 
-We are a group of people working for organizations committed to bringing together different communities to show the benefits of open data and encourage the adoption of open data policies.
+Apple, <a href="https://apple.com/">Achetons des devices</a> 
 
-#### Organization Committee
+Google <a href="https://google.com">Homepage</a>
 
-Marco Sieber & Reto Wick (OpenData Stadt Zürich) /
-Andreas Amsler, Matthias Mazenauer & Thomas Lo Russo (Statistisches Amt Kanton Zürich) /
-Cristina Sarasua, University of Zurich /
-Gonzalo Casas, Open Network Infrastructure Network Association /
-Muriel Buri & Dorothea Hug Peter, University of Zurich & Zurich R User-Group 
 
-#### Upcoming Events
-
-Fruitful hackdays depend on fertile ground. Our organizing team is involved in several other events taking place this year, such as <a href="https://makezurich.ch/">MakeZurich vol. 2</a> and the <a href="https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Zurich_Datathon">Wiki-Datathon</a>. TWIST will draw upon the work done at these events. 
-
-June 22-30, 2018, <a href="https://makezurich.ch/">MakeZurich vol. 2</a> 
-
-June 16, 2018, <a href="https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Zurich_Datathon">Wikidata Zurich Datathon</a>
-
-#### Past Events
-
-[OpenDataDay Hackathon (picture)](https://www.stadt-zuerich.ch/portal/de/index/ogd/anwendungen/2017/ODD17_Hackathon_Projekte.html)
-
-[Wikidata Workshop @ Digital Festival 2017](https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Zurich)
-
-[MakeZurich Vol.1](https://makezurich.ch/)
-<center>
-<a class="twitter-timeline" width="50%" href="https://twitter.com/TWIST2018?ref_src=twsrc%5Etfw">Tweets by TWIST2018</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</center>
 
