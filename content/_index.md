@@ -11,6 +11,9 @@ date: '2018-10-01'
 ##### H5
 ###### H6
 
+# j'aime les pates 
+
+
 Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
@@ -20,9 +23,9 @@ Alt-H2
 ------
 
 Texte normal normal normal normal normal normal normal normal normal normal normal normal normal normal
-
-<a target="_blank" href="https://www.google.fr" class="button back alt2">Test bouton</a>
-
+<center>
+<a target="_blank" href="https://www.google.fr" class="button back alt2">boom</a>
+</center>
 *en italique* or _en italique_.
 **en gras** or __en gras__.
 ~~Scratch this.~~
